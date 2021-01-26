@@ -12,6 +12,7 @@
   * Server : https://github.com/SharkBSJ/bsj_mern_shopping
     * Because this project is Hybrid APP, you need a server (It's made using MERN Stack)
   * React-Native (Client, For Mobile APP)
+  * Visual Studio Code (IDE)
 
 - How to build  
   * Please Modify WEB_URL (in ./App.js) as Server Adderess (For Connection)
