@@ -13,7 +13,8 @@
     * Because this project is Hybrid APP, you need a server (It's made using MERN Stack)
   * React-Native (Client, For Mobile APP)
 
-- How to build
+- How to build  
+  * Please Modify WEB_URL (in ./App.js) as Server Adderess (For Connection)
 ```
 react-native run-android
 ```
